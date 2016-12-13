@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Strings>
+  <BeforeSelectedCode>
+    <!-- The first string to insert must include the quoted name for the check step. -->
+    <String>Check.Step("xxxx.", delegate</String>
+    <String>{</String>
+  </BeforeSelectedCode>
+  <AfterSelectedCode>
+    <String>});</String>
+  </AfterSelectedCode>
+</Strings>
